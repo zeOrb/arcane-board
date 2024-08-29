@@ -5,5 +5,5 @@
 - Simple interaction, event and combat system 
 - Grid based movement system with A* Pathfiding
 
-# A demo
+# Demonstration
   ![Alt text](Images/arcane-git-4.gif)
